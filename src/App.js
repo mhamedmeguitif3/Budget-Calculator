@@ -125,6 +125,11 @@ function App() {
           },0)}
         </span>
       </h1>
+      <div className='author'>
+        <div className='author-info'>
+        created with  &#128151; By M.Meg
+        </div>
+        </div>
       
    </>
   );
